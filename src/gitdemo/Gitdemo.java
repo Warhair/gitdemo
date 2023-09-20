@@ -18,3 +18,4 @@ public class Gitdemo {
         System.out.println("statikus metodus");
 
 }
+}
