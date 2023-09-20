@@ -14,9 +14,7 @@ public class Gitdemo {
             
         }
     }
+    private static void metodus() {
+        System.out.println("statikus metodus");
 
-    private  void metodus() {
-        //throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
-    
 }
